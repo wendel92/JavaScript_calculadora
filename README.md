@@ -1,1 +1,2 @@
-# start-Js
+- Desenvolvimento de uma calculadora, afim de forçar minhas abilidades.
+- Video aula do Dev Gustavo Neitzke. Usei como base para melhor entendimento. Partindo disso realizei algumas modificações
